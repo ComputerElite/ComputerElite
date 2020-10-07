@@ -14,7 +14,7 @@ Here I am. I ported QSE to C# because a friend said I could build a GUI. I made 
 #### Problems?
 I have my basic Code I use for almost every project (Buttons, Layout, Update Code). But It takes about half an hour to an hour to get the GUI to look nice and set up everything for a new program. So I sometimes hate it.
 ### What am I doing right now?
-I'm waiting for the release of the Quest 2 as well as if BMBF is compatible with Beat Saber 1.12. If BMBF is possible I want to Create a FULL BMBF and BS Backupping and Restoring Utility. All my previous Projects were a preperation for this.
+I'm creating a FULL BMBF and BS Backupping and Restoring Utility. All my previous Projects were a preperation for this.
 
 
 
