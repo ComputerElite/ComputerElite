@@ -14,7 +14,7 @@ Here I am. I ported [QSE](https://github.com/ComputerElite/QSE) to C# because a 
 #### Problems?
 I have my basic Code I use for almost every project (Buttons, Layout, Update Code). But It takes about half an hour to an hour to get the GUI to look nice and set up everything for a new program. So I sometimes hate it.
 ### What am I doing right now?
-I'm creating a FULL [BMBF and BS Backupping and Restoring Utility](https://github.com/ComputerElite/BMBF-BS-Backup-Utility). All my previous Projects were a preperation for this.
+N/A
 
 
 
