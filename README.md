@@ -14,7 +14,7 @@ Here I am. I ported [QSE](https://github.com/ComputerElite/QSE) to C# because a 
 #### Problems?
 I have my basic Code I use for almost every project (Buttons, Layout, Update Code). But It takes about half an hour to an hour to get the GUI to look nice and set up everything for a new program. So I sometimes hate it.
 ### What am I doing right now?
-I'm fixing Bugs in my Programs and improving them. :)
+I'm fixing Bugs in my Programs and improving them :)
 
 
 
