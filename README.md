@@ -1,5 +1,5 @@
 ![Ratings should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
-### Hi there
+### Hello there
 So how do I get started? Oh I got it:
 ### programing
 #### Scratch
