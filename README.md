@@ -1,4 +1,4 @@
-![Ratings should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
+![Stats should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
 ### Hello there
 So how do I get started? Oh I got it:
 ### programing
@@ -15,21 +15,4 @@ Here I am. I ported [QSE](https://github.com/ComputerElite/QSE) to C# because a 
 #### Problems?
 I have my basic Code I use for almost every project (Buttons, Layout, Update Code). But It takes about half an hour to an hour to get the GUI to look nice and set up everything for a new program. So I sometimes hate it. At least I now have [one big project](https://github.com/ComputerElite/BM) which is easier to manage. Still is a lot of affort but it pays of.
 ### What am I doing right now?
-I'm fixing Bugs in my Programs and improving them :)
-
-
-
-<!--
-**ComputerElite/ComputerElite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Making BMBF Manager compatible with BMBF 1.15 and up (not released yet) and fixing bugs with APK Downgrader
