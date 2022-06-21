@@ -18,3 +18,5 @@ With my Website I ofc had to start with js to make it more interactive/have a us
 I have my basic Code I use for almost every project (Buttons, Layout, Update Code). But It takes about half an hour to an hour to get the GUI to look nice and set up everything for a new program. So I sometimes hate it. At least I now have [one big project](https://github.com/ComputerElite/BM) which is easier to manage. Still is a lot of affort but it pays of.
 ### What am I doing right now?
 Various things. I won't update the status.
+
+Request ID=18062022/9533890
