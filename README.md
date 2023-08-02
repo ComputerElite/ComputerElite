@@ -1,9 +1,14 @@
 ![Stats should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
+
+## More info
+If you want to know what I do check my repos or [webpage](https://computerelite.github.io), which should have all relevant links. The website also has contact information so you can get in contact with me.
+
+# Stuff below is severely outdated
 ### Hello there
 So how do I get started? Oh I got it:
 ### programing
 #### Scratch
-Can you really call this programing? I mean I made a bad minecraft clone xD.
+I made a 2d minecraft clone in Scratch which I was quite proud of at the time.
 #### Batch
 I started with "real" programing in Batch (ik bad language). I have programed a working Chat with it while I followed a YouTube video. After that was finished I started adding more an more features until I started:
 #### HTML & CSS
