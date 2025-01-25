@@ -16,7 +16,7 @@ After I used Batch. I tried myself in HTML and CSS. I understand how it works an
 #### Java
 I thought since when I started programing I always heard of Java but I thought it was to complicated. But it was already 2 Years since I started programing. I started Java mainly because I started playing minecraft Java edition and wanted to code a plugin. After I did my plugin I strted with console applications and started programing [QSE](https://github.com/ComputerElite/QSE):
 #### C#
-Here I am. I ported [QSE](https://github.com/ComputerElite/QSE) to C# because a friend said I could build a GUI. I made the GUI and ported the code in about 3 hours. At first I developed new features in C# and Java but I quickly realized that it was to much work. That's why I discontinued the Java Version. I started Loving C# that much that I now only code in C# And want to make a GUI for everything:
+Here I am. I ported [QSE](https://github.com/ComputerElite/QSE) to C# because a friend said I could build a GUI. I made the GUI and ported the code in about 3 hours. At first I developed new features in C# and Java but I quickly realized that it was to much work. That's why I discontinued the Java Version. I started Loving C# that much that I now only code in C# And wanted to make a GUI for everything:
 #### node.js, js & electron:
 With my Website I ofc had to start with js to make it more interactive/have a use. Along with that the streamer tools client is now written in node.js with electron and html for the UI.
 #### Problems? (OUTDATED)
