@@ -1,4 +1,5 @@
-![Stats should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
+> [!WARNING]
+> This repository has moved to Codeberg: https://codeberg.org/kaiya/ComputerElite ![Stats should go here. idk what went wrong](https://github-readme-stats.vercel.app/api?username=ComputerElite&theme=dark)
 
 ## More info
 If you want to know what I do check my repos or [webpage](https://computerelite.github.io), which should have all relevant links. The website also has contact information so you can get in contact with me.
